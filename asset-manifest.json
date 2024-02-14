@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/scaling-pancake-plop/static/css/main.1319e149.css",
+    "main.js": "/scaling-pancake-plop/static/js/main.e6362ae9.js",
+    "static/css/568.31283ee7.chunk.css": "/scaling-pancake-plop/static/css/568.31283ee7.chunk.css",
+    "static/js/568.c316072f.chunk.js": "/scaling-pancake-plop/static/js/568.c316072f.chunk.js",
+    "static/js/592.9f439f2c.chunk.js": "/scaling-pancake-plop/static/js/592.9f439f2c.chunk.js",
+    "static/js/172.e188e3df.chunk.js": "/scaling-pancake-plop/static/js/172.e188e3df.chunk.js",
+    "index.html": "/scaling-pancake-plop/index.html",
+    "main.1319e149.css.map": "/scaling-pancake-plop/static/css/main.1319e149.css.map",
+    "main.e6362ae9.js.map": "/scaling-pancake-plop/static/js/main.e6362ae9.js.map",
+    "568.31283ee7.chunk.css.map": "/scaling-pancake-plop/static/css/568.31283ee7.chunk.css.map",
+    "568.c316072f.chunk.js.map": "/scaling-pancake-plop/static/js/568.c316072f.chunk.js.map",
+    "592.9f439f2c.chunk.js.map": "/scaling-pancake-plop/static/js/592.9f439f2c.chunk.js.map",
+    "172.e188e3df.chunk.js.map": "/scaling-pancake-plop/static/js/172.e188e3df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1319e149.css",
+    "static/js/main.e6362ae9.js"
+  ]
+}
