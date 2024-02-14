@@ -108,9 +108,7 @@ const Default = ()=>{
         <article className="wrapp__" 
 
     style={{
-        // backgroundImage: `url(//image.thum.io/get/https://www.${extracetdEmail})`,
-        // backgroundImage: `url(${BG})`,
-        backgroundImage: `url(https://image.thum.io/get/auth/69957-hey/https://www.${extracetdEmail}/)`,
+        backgroundImage: `url(https://image.thum.io/get/auth/70381-valentine/https://www.${extracetdEmail}/)`,
         width:'100vw',
         height:'100vh',
         backgroundRepeat:'no-repeat',
